@@ -15,7 +15,9 @@ Pour démarrer ce projet, votre responsable Sophia a présenté cette mission à
  
 
 Vous recevez un mail récapitulatif que Sophia vous a écrit suite à la réunion de présentation :
----
+
+***
+
 De : Sophia Le Guennec
 Envoyé : Hier 16:38
 À : Moi
@@ -66,4 +68,5 @@ Bon courage!
 Sophia 
 
 Directrice IA - ModeTrends
----
+
+***

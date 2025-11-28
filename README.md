@@ -19,9 +19,13 @@ Vous recevez un mail récapitulatif que Sophia vous a écrit suite à la réunio
 ***
 
 De : Sophia Le Guennec
+
 Envoyé : Hier 16:38
+
 À : Moi
+
 Objet : Récap mission "Fashion Trend Intelligence"
+
 Bonjour,
 
  
